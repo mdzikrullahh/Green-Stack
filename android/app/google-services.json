@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "970022121657",
+    "firebase_url": "https://greenstack-fc700-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "greenstack-fc700",
+    "storage_bucket": "greenstack-fc700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970022121657:android:2d04f5142c0587ace76b68",
+        "android_client_info": {
+          "package_name": "com.mycompany.greenstack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDfJAOLyUbFtVmLhzAehqqnA123jICXvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
